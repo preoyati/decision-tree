@@ -1,0 +1,11 @@
+TDIDT: BASIC ALGORITHM
+IF all the instances in the training set belong to the same class
+THEN return the value of the class
+ELSE 
+(a) Select an attribute A to split on+
+(b) Sort the instances in the training set into subsets, one
+for each value of attribute A
+(c) Return a tree with one branch for each non-empty subset,
+each branch having a descendant subtree or a class
+value produced by applying the algorithm recursively
++ Never select an attribute twice in the same branch

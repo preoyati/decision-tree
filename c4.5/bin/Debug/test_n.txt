@@ -1,0 +1,15 @@
+sunny false 85 85 no
+sunny true 80 90 no
+overcast false 83 86 yes
+rainy false 70 96 yes
+rainy false 73 80 yes
+rainy true 65 70 no
+overcast true 64 65 yes
+sunny false 72 95 no
+sunny false 70 70 yes
+rainy false 75 80 yes
+sunny true 75 70 yes
+overcast true 72 90 yes
+overcast false 81 75 yes
+rainy true 71 91 no
+rainy true 71 91 no

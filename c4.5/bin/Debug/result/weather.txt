@@ -1,0 +1,5 @@
+2(<=84),1(true),0(sunny),3(<=80)play
+3(>80)dontplay
+0(overcast)play
+0(rain)dontplay
+1(false),2(>84)dontplay

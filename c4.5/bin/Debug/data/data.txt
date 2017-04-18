@@ -1,0 +1,6 @@
+result 3 1 5 0
+vote 4 1 16 0
+BLN 2 3 20 0
+HSV 2 2 16 0
+weather 2 1 2 2
+iris2 2 1 0 4
